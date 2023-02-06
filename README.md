@@ -27,8 +27,17 @@ Usage guide:<br/>
 
 <p align="center">
 
-Page:  <br/>
-![AAAAAAA](https://user-images.githubusercontent.com/94048443/216818933-19e8ef01-89ae-43c0-a40b-66fa02c74c03.png)
+<h3>Collecting new baseline:<h3>  <br/>
+empty baseline:
+![embl](https://user-images.githubusercontent.com/94048443/216982372-7e6fe37e-bb5c-4fcd-8a72-64ce855e0fa1.png)
+
+
+Let's fill baseline with hashes and file names:
+![blcol](https://user-images.githubusercontent.com/94048443/216982396-67d0222f-78b2-4910-81fa-601a5f050802.png)
+<h3>Alerts in real time:<h3>
+
+
+
 
 </p>
 
