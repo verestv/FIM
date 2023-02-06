@@ -10,7 +10,7 @@ Usage guide:<br/>
 
 -After you saved baseline , run program . It will give alerts in real time in case something happenes to your files.
 
-(files in CF2 folder are just example, and program monitor files in this folder , but u can change to your folder in python script)
+(files in CF2 folder are just example, and program monitor files in this folder , but u can specify your own folder in python script)
 <br />
 <h2>Languages and modules used</h2>
 
