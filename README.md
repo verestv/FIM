@@ -9,6 +9,8 @@ Usage guide:<br/>
 -Prepare your folder with files and fill files with data you need . After work finished ,run script and choose "Collect new baseline" - this will create unic hashes for your files and write every file name with its hash to separate file.
 
 -After you saved baseline , run program . It will give alerts in real time in case something happenes to your files.
+
+(files in CF2 folder are just example, and program rely on files in this folder , but u can change to your folder)
 <br />
 <h2>Languages and modules used</h2>
 
