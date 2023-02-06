@@ -27,17 +27,27 @@ Usage guide:<br/>
 
 <p align="center">
 
-<h3>Collecting new baseline:<h3>  <br/>
-empty baseline:
-![embl](https://user-images.githubusercontent.com/94048443/216982372-7e6fe37e-bb5c-4fcd-8a72-64ce855e0fa1.png)
+<h3>Collecting new baseline:<h3>
 
+empty baseline:<br/>
+![embl](https://user-images.githubusercontent.com/94048443/216982372-7e6fe37e-bb5c-4fcd-8a72-64ce855e0fa1.png)
 
 Let's fill baseline with hashes and file names:
 ![blcol](https://user-images.githubusercontent.com/94048443/216982396-67d0222f-78b2-4910-81fa-601a5f050802.png)
 <h3>Alerts in real time:<h3>
 
+As long as files are not changed program will be quiet:<br/>
+![allgood](https://user-images.githubusercontent.com/94048443/216982440-92bd2f78-810f-4943-a245-4ce987bec14b.png)
+
+Let's change one of files and see what happens: <br/>
+![notor](https://user-images.githubusercontent.com/94048443/216982463-f60dd4bf-1448-45c1-b64f-2f3e18574a73.png)<br/>
+Program started print alerts.<br/>
 
 
+Lets see other possible alerts:<br/>
+![delbel1](https://user-images.githubusercontent.com/94048443/216982476-169a1f81-7d14-456e-8a78-ad369d94a93e.png)
+
+In conclusion , this simple app will help control an integrity of your files and alert you when some changes in folder occurs
 
 </p>
 
