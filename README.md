@@ -13,17 +13,15 @@ Usage guide:<br/>
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages and modules used</h2>
 
 - <b>Python</b> 
-- <b>html/css<b>
-- <b>Flask</b>
-- <b>Simantec UI<b>
+- <b>hashlib,colorama<b>
+
 
 <h2>Environments Used </h2>
 
 - <b>Windows 10</b>
-- <b>Virtual enviroment</b>
 
 <h2>Program interface:</h2>
 
